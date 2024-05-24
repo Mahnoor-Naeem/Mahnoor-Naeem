@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahnoor-Naeem
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently Web Developer
 - 💞️ I’m looking to collaborate with Development team
 - 📫 How to reach me ...
 
